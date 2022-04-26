@@ -16,9 +16,10 @@
  ```
  # Running app in Docker
 
-- Execute for running app : `docker-compose up --build` 
-                            `docker build -t mars-rover .`
-                            `docker run mars-rover:latest`
+ Execute for running app : 
+ `docker-compose up --build`
+ `docker build -t mars-rover .`
+ `docker run mars-rover:latest`
                          
  # Setup Notes
 ```
